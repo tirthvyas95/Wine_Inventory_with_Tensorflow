@@ -135,7 +135,6 @@ I made this project as a proof of concept, I have had help from various sources 
         from https://github.com/armaanpriyadarshan
 * Persson, A. (n.d.). Aladdin Persson's Youtube Channel. Retrieved September 04, 2021, 
         from https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ
-
 * Yu, H., Chen, C., Du, X., Li, Y., Rashwan, A., Hou, L., . . . Li, J. (2020). TensorFlow Model Garden. Retrieved September 05, 2021, 
         from https://github.com/tensorflow/models
 
